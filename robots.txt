@@ -1,0 +1,6 @@
+# robots.txt for Shagun Dhiman Portfolio
+
+User-agent: *
+Allow: /
+
+Sitemap: https://shagundhiman.vercel.app/sitemap.xml
