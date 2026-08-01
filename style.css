@@ -191,7 +191,7 @@ p{
     min-height:calc(100vh - 75px);
     display:flex;
     align-items:center;
-    background: url(./assets/Background_image.png);
+    background: url(./assets/Background_image.webp);
     background-size: cover;
 }
 
